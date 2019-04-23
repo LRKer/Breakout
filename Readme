@@ -1,0 +1,12 @@
+//Breakout game by Luke Koch for CSC112
+//breakout.cpp is main file
+//breakfield.cpp is where the bulk of the game resides
+//the remaining files are classes
+//game features paddle that angles ball based on impact position,
+//and is capable of addiing spin if paddle and ball are moving in different directions
+//there are multiple levels, and game generates random bricks if built-in levels are beaten
+//up arrow to launch, ball will launch at angle if paddle moving
+//left right arrow to move
+//down arrow to reset
+//reset resets ball count and bricks
+//does not reset level count
